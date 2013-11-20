@@ -1,0 +1,263 @@
+<site>
+  <preference key="OpenAction.page.path" value="C:\Program Files\Yahoo SiteBuilder\sites\www.hollywood2hollywood.com"/>
+  <preference key="FilestoreFactory.webSite" value="us.1.p10"/>
+  <preference key="PublishAction.time" value="1193889972608"/>
+  <preference key="PublishAction.remotePath" value=""/>
+  <preference key="OpenPageAction.recent" value="C:\Program Files\Yahoo SiteBuilder\sites\www.hollywood2hollywood.com\H2H.html|C:\Program Files\Yahoo SiteBuilder\sites\www.hollywood2hollywood.com\Route.html|C:\Program Files\Yahoo SiteBuilder\sites\www.hollywood2hollywood.com\Why.html|C:\Program Files\Yahoo SiteBuilder\sites\www.hollywood2hollywood.com\ThankYou.html|C:\Program Files\Yahoo SiteBuilder\sites\www.hollywood2hollywood.com\Fotos.html"/>
+  <preference key="PublishAction.localPath" value="/"/>
+  <preference key="PictureElement.path" value="D:\Documents and Settings\robert.l.la.velle\My Documents\Personal\RTW Trip"/>
+  <preference key="PublishAction.allFiles" value="0"/>
+  <asset id="%LocalDirectoryAsset:/sitebuilder">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/">
+  </asset>
+  <asset id="%PageAssetImpl:/About_Us.html">
+    <published date="1193308635215" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193308639000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%ImageAssetImpl:/images/Christmas_2006_264.JPG"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/Christmas_2006_264-335x219.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/BajaRobb.jpg"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%PageAssetImpl:/ThankYou.html"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/BajaRobb-340x216.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/About_Us_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Budget.html">
+    <published date="1193308634213" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193308638000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%PageAssetImpl:/ThankYou.html"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Budget_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Fotos.html">
+    <published date="1193308632982" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193308637000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%PageAssetImpl:/ThankYou.html"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Fotos_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/H2H.html">
+    <published date="1193493383937" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193493387000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%ImageAssetImpl:/images/h2hbw.jpg"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%PageAssetImpl:/ThankYou.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/h2hbw-510x354.jpg"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/H2H_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/images">
+  </asset>
+  <asset id="%ImageAssetImpl:/images/BajaRobb.jpg">
+    <published date="1190732710447" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732765000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Christmas_2006_264.JPG">
+    <published date="1190732721893" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732776000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/DSC_0020.JPG">
+    <published date="1190732733730" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732780000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/GoogleEarth_Image1.jpg">
+    <published date="1190732708184" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732762000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/GoogleEarth_Image2.jpg">
+    <published date="1190732708554" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732763000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/GoogleEarth_Image_3_.jpg">
+    <published date="1190732700693" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732755000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/Grey_Goose.jpg">
+    <published date="1190732681105" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732735000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/h2hbw.jpg">
+    <published date="1190732686292" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732741000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/images/RTW_Route.jpg">
+    <published date="1190732676258" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732731000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%PageAssetImpl:/index.html">
+    <published date="1193061606588" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193061618000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/index_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/navigation_bars">
+  </asset>
+  <asset id="%PageAssetImpl:/Route.html">
+    <published date="1193889965417" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193889967000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%ImageAssetImpl:/images/GoogleEarth_Image1.jpg"/>
+    <refers-to id="%ImageAssetImpl:/images/GoogleEarth_Image_3_.jpg"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/GoogleEarth_Image1-600x417.jpg"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/GoogleEarth_Image_3_-600x405.jpg"/>
+    <refers-to id="%PageAssetImpl:/ThankYou.html"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Route_html.png"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/applets">
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/BajaRobb-340x216.jpg">
+    <published date="1190732680033" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732734000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/Christmas_2006_264-335x219.jpg">
+    <published date="1190732671020" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732725000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/GoogleEarth_Image1-600x417.jpg">
+    <published date="1190732670479" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732725000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/GoogleEarth_Image_3_-600x405.jpg">
+    <published date="1190732670990" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732725000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%ImageAssetImpl:/sitebuilder/images/h2hbw-510x354.jpg">
+    <published date="1190732670079" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732724000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/images/thumbnails">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/preview">
+  </asset>
+  <asset id="%LocalDirectoryAsset:/sitebuilder/save">
+  </asset>
+  <asset id="%PageAssetImpl:/ThankYou.html">
+    <published date="1193308627193" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193308639000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/ThankYou_html.png"/>
+  </asset>
+  <asset id="%PageAssetImpl:/Why.html">
+    <published date="1193308627193" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1193308634000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%PageAssetImpl:/Budget.html"/>
+    <refers-to id="%PageAssetImpl:/Fotos.html"/>
+    <refers-to id="%PageAssetImpl:/About_Us.html"/>
+    <refers-to id="%PageAssetImpl:/H2H.html"/>
+    <refers-to id="%PageAssetImpl:/Why.html"/>
+    <refers-to id="%PageAssetImpl:/ThankYou.html"/>
+    <refers-to id="%PageAssetImpl:/Route.html"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/Why_html.png"/>
+  </asset>
+  <asset id="%NavbarAsset:/navigation_bars/Nav.nav">
+    <published date="1190732715945" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <serverLastModified date="1190732770000" yahooId="wlavelle@sbcglobal.net/us.1.p10" context="PublishContext[GEOCITIES_PUBLISH,/,/]"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+    <refers-to id="%NavbarAsset:/navigation_bars/Nav.nav"/>
+    <refers-to id="%ImageAssetImpl:/sitebuilder/images/thumbnails/navigation_bars/Nav.png"/>
+  </asset>
+</site>
